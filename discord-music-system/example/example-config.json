@@ -1,0 +1,5 @@
+{
+    "token": "Some Discord Token", 
+    "ytApiKey": "A random YouTube API Key",
+    "prefix": "I think the prefix goes here"
+}
